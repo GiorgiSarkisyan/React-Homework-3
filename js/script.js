@@ -145,7 +145,7 @@ BottomPartDivLogoStyles(bottomPartDivLogoBox)
 
 
 const bottomPartDivLogo = document.createElement("img")
-bottomPartDivLogo.setAttribute("src", "../img/coolicon.svg")
+bottomPartDivLogo.setAttribute("src", "img/coolicon.svg")
 bottomPartDivLogoBox.appendChild(bottomPartDivLogo)
 
 
