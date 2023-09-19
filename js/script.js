@@ -398,3 +398,4 @@ SubscribeButtonHover(footerSubscribeInput)
 
 mainPageGrid.appendChild(mainPageUpperPart)
 mainPageGrid.appendChild(mainPageBottomPart)
+console.log("hello World")
