@@ -145,7 +145,7 @@ BottomPartDivLogoStyles(bottomPartDivLogoBox)
 
 
 const bottomPartDivLogo = document.createElement("img")
-bottomPartDivLogo.setAttribute("src", "../img/coolicon.svg")
+bottomPartDivLogo.setAttribute("src", "../image/cooli-con.svg")
 bottomPartDivLogoBox.appendChild(bottomPartDivLogo)
 
 
@@ -185,7 +185,7 @@ bottomPartSecondDivLogoBox.style.backgroundColor = "#B9EAA8"
 
 const bottomPartSecondDivLogo = document.createElement("img")
 bottomPartSecondDivLogoBox.appendChild(bottomPartSecondDivLogo)
-bottomPartSecondDivLogo.setAttribute("src", "../img/two-arrows.svg")
+bottomPartSecondDivLogo.setAttribute("src", "../image/two-arrows.svg")
 
 
 const bottomPartSecondDivTitle = document.createElement("h3")
@@ -224,7 +224,7 @@ bottomPartThirdDivLogoBox.style.backgroundColor = "#C0C0C0"
 
 const bottomPartThirdDivLogo = document.createElement("img")
 bottomPartThirdDivLogoBox.appendChild(bottomPartThirdDivLogo)
-bottomPartThirdDivLogo.setAttribute("src", "../img/mastercard.svg")
+bottomPartThirdDivLogo.setAttribute("src", "../image/master-card.svg")
 
 
 const bottomPartThirdDivTitle = document.createElement("h3")
